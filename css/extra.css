@@ -1,0 +1,8 @@
+h2 {
+  color: blue !important;
+  font-weight: 900 !important;
+}
+
+.md-typset h2 {
+  font-weight: 900 !important;
+}
